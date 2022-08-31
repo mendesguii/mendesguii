@@ -3,7 +3,7 @@
 
 ### About Me :
 
-- 🔭 I’m working as a Data Team Lead.
+- 🔭 I’m currently working as a Data Team Lead.
 - 🌱 Exploring data and web dev currently.
 - ⚡ In my free time I like to tinker with Linux. ~~recenlty made the move from windows~~
 - 📫 You can reach me at: &nbsp; <a href="https://www.linkedin.com/in/guilherme-mendes/">
